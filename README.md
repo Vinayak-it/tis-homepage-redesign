@@ -6,11 +6,11 @@ The project focuses on creating a premium school website experience with strong 
 
 ## Live Demo
 
-[View Live Website](YOUR_VERCEL_URL)
+[View Live Website](https://tis-homepage-redesign-nu-orpin.vercel.app)
 
 ## GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_URL)
+[View Source Code](https://github.com/Vinayak-it/tis-homepage-redesign)
 
 ---
 

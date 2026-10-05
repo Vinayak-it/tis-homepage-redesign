@@ -1,5 +1,6 @@
 import { Menu, X, Moon, Sun } from "lucide-react";
 import { useEffect, useState } from "react";
+import schoolLogo from "../../assets/schoolLogo.png";
 
 const navLinks = [
   { name: "About", href: "#about" },
@@ -32,7 +33,7 @@ function Navbar() {
         {/* Logo */}
         <a href="#home" className="navbar-logo">
           <img
-            src="/src/assets/schoolLogo.png"
+            src={schoolLogo}
             alt="Tulas International School"
           />
         </a>
